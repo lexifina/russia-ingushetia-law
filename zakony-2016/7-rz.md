@@ -1,0 +1,8 @@
+# О внесении изменений в статью 13.7 Закона Республики Ингушетия «О противодействии коррупции в Республики Ингушетия»
+Document type: Закон
+Number: 7-рз
+Date signed: 2016-03-28
+Publication date: 2016-03-30
+Publication number: 0600201603300002
+Signing body: Республика Ингушетия
+Official publication page: http://publication.pravo.gov.ru/Document/View/0600201603300002
