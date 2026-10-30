@@ -1,0 +1,1259 @@
+{
+ "country": "RU-IN",
+ "acts": [
+  {
+   "slug": "zakony-2015",
+   "short": "Законы 2015",
+   "title": "Republic of Ingushetia: catalogue of the laws published in 2015 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region06",
+   "versions": [
+    {
+     "from": "2015-06-01",
+     "units": 8,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "ca4f9d428018637cf3fa2dc17ec76d77f47d6e88cf49b80ecda1f1edc0d66f44"
+    },
+    {
+     "from": "2015-06-04",
+     "units": 10,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "129e9c2334c9b8e4074324cc2ed03a8ef5d09d0ef414c280b90c62114232b1f9"
+    },
+    {
+     "from": "2015-06-05",
+     "units": 12,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "82080e6bd294c3f4275884d97324762ee8cea263b61ecb302c2beb2157e13435"
+    },
+    {
+     "from": "2015-07-01",
+     "units": 14,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "e759e6c9854b277385ca12bddcf2ff52848f68db94f593c49cf8c141b21f980b"
+    },
+    {
+     "from": "2015-07-06",
+     "units": 15,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "56c656f932bd54d5917c390d33766fe7cac888d01f5830d31e089eaa082b7672"
+    },
+    {
+     "from": "2015-09-02",
+     "units": 18,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "4625f2e0f2d1537e7483c07de0a68083264f162922d9028c0c384053b7899b0a"
+    },
+    {
+     "from": "2015-10-07",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "03fc698d8e53c8fad272818e71d653f08a844edda29bb4a88692395bd1dc1077"
+    },
+    {
+     "from": "2015-10-12",
+     "units": 26,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "13a2b0772b0ea7968608abc092f35e3dd183696d6f23524f2c1537ad9254a879"
+    },
+    {
+     "from": "2015-10-21",
+     "units": 28,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "a36301204cd68fa747cf2d7ef6da55ab611a9f297821c4c5b47613f028c9fdab"
+    },
+    {
+     "from": "2015-11-03",
+     "units": 30,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "8eacfc2f6f9282ea2a5b170ee91e5c1e1dbe44bc9fa6f9a5721b9e31a46dedaa"
+    },
+    {
+     "from": "2015-12-02",
+     "units": 35,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "fc93ed2b99c6eb99bf5a32076f88b2c733f2da1de755565ea5e85dde76e48fc8"
+    },
+    {
+     "from": "2015-12-09",
+     "units": 36,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "ab18d31dacea3126b0caea319571b21604767719753f33b376af1dbe772400d5"
+    },
+    {
+     "from": "2015-12-14",
+     "units": 38,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "66cd6bf1e06ce87493a1e94d7631f6004b240f444a22e866eddff8365a33cb11"
+    },
+    {
+     "from": "2015-12-29",
+     "units": 46,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "5f2905ccb8e5b7193abc166d61284350f3a8dd2c3c567732094da002c95745c3"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2016",
+   "short": "Законы 2016",
+   "title": "Republic of Ingushetia: catalogue of the laws published in 2016 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region06",
+   "versions": [
+    {
+     "from": "2016-01-04",
+     "units": 3,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "cead2ae4c0551ece69bc6745e1223712077e594a1c4acaabb39348e3654c6a79"
+    },
+    {
+     "from": "2016-02-08",
+     "units": 7,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "06ac932940a0a52041d0f2017ba05ff72fce9e140439f10f3209ca307427f0f6"
+    },
+    {
+     "from": "2016-03-02",
+     "units": 8,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "3db567ee66806a370a845d7668912322b225e34e9c7e9a175765d7bae13e2976"
+    },
+    {
+     "from": "2016-03-30",
+     "units": 14,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "3871bdccf489b81347d90de085ac7f3eb09a0591eb50ba38ed7003855008dafe"
+    },
+    {
+     "from": "2016-04-19",
+     "units": 16,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "6263d0c3298ee25cb5825240ff5ffd45d7d2aa4aa4f27e2d2f736df018104ede"
+    },
+    {
+     "from": "2016-05-06",
+     "units": 20,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "fedeef443fac9af59d092441950d13dc567d22829ce6446ac9053ce630f3f032"
+    },
+    {
+     "from": "2016-05-24",
+     "units": 22,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "9ee7755f12c52e209fdd1dd3bccb866eee11c651ef206e4febcd78cc4b7d9eec"
+    },
+    {
+     "from": "2016-05-30",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "953d61a4337d455a2b4744fb794385473af199a62037a6579b3cd5ac761e3082"
+    },
+    {
+     "from": "2016-06-02",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "0a3f57ac39fb7fd1fdcffc9400cd7172d0360f1946685d68e9810fa8de23ca80"
+    },
+    {
+     "from": "2016-07-04",
+     "units": 37,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "1485ec654c5011379c974b71bc31d0e98a9815c9b4ac581658a2a635a4f847f9"
+    },
+    {
+     "from": "2016-07-15",
+     "units": 38,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "e5d3e376fcfc35c0ffdd62f5b3680edac9018cbca17b1d6fea0ca86c4912a53f"
+    },
+    {
+     "from": "2016-10-31",
+     "units": 39,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "2685053920853bfce1f97f095a1906d294df79b97cce17b3cece11aa42f83715"
+    },
+    {
+     "from": "2016-11-01",
+     "units": 41,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "fde621ddc4fb80389eb4401c7e6f5d2b0a411eb1149742765ebfe86af0a365f3"
+    },
+    {
+     "from": "2016-11-29",
+     "units": 44,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "1f8953b6c203d3e441f99f43292779659921f90743a0826233134768c1deae7d"
+    },
+    {
+     "from": "2016-11-30",
+     "units": 45,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "14634e140f4a4508f3b5175ba3defd5058f776ba83000dfbd2fd13a65dee097b"
+    },
+    {
+     "from": "2016-12-02",
+     "units": 53,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "9e6ee1d2551d5bc7583845940720dd2218bd13c9a003498b63d38f7c5fbeb34a"
+    },
+    {
+     "from": "2016-12-20",
+     "units": 58,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "68df9c4a3cb20e960ace2973a861ffd294302a3c49df8f1c5ab789333a016cfa"
+    },
+    {
+     "from": "2016-12-28",
+     "units": 59,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "cd53dc40c8cebb916af69d21c303f28b360304ee7a427e64c2a74077cfe3efe0"
+    },
+    {
+     "from": "2016-12-29",
+     "units": 68,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "960a7644611f63910b8dc63768ee51f185864705f3f89230fcf68a6f0c290dee"
+    },
+    {
+     "from": "2016-12-30",
+     "units": 70,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "7e38ee02643662bb0158fc88d566e224da5a697ba0bacb5e658f479f39900008"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2017",
+   "short": "Законы 2017",
+   "title": "Republic of Ingushetia: catalogue of the laws published in 2017 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region06",
+   "versions": [
+    {
+     "from": "2017-02-01",
+     "units": 3,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "1186aefbb5a27e1f66d0727add00db20c45ceb06602f00e485452055b7b5b03f"
+    },
+    {
+     "from": "2017-02-27",
+     "units": 4,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "81d7048e470e10896067a781abd1f9e0fbbdcf3aef6a095ad6fc3b8e73bd1bc6"
+    },
+    {
+     "from": "2017-03-07",
+     "units": 8,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "212f2bc8b309fbe9e7614cc97efea9c0405ef32cef45a891db2034415e918ec2"
+    },
+    {
+     "from": "2017-03-14",
+     "units": 9,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "a644b343b3ae9e37657521c2a6357576a612c7bef2bbce1217181bb2e38fcc63"
+    },
+    {
+     "from": "2017-04-05",
+     "units": 10,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "734a523300090efe11b4cb69b05d38a72bcf9eb53a1e1ea26f0f6f33a76baad5"
+    },
+    {
+     "from": "2017-04-26",
+     "units": 17,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "b9f5d81af5f1d07d666dec504da66c3cce3599449778c27d24746d48999d9db4"
+    },
+    {
+     "from": "2017-05-02",
+     "units": 21,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "42b0af232b24d8681346273b3f349359ef07afbd46b810fbf99486dce542b357"
+    },
+    {
+     "from": "2017-05-29",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "07e18ae4c1a25aa0cfa522b5e57590a260c5b128b92004052d64b2987fc0e0b1"
+    },
+    {
+     "from": "2017-06-06",
+     "units": 28,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "2b5872d8c9cda7122a138980d356172e505dd5351f480d4eca1d0e5d31e0927f"
+    },
+    {
+     "from": "2017-06-20",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "e73f25f83201e246b3860546de46e48bce41583e3568e3611b06f8f4a58aa61f"
+    },
+    {
+     "from": "2017-06-21",
+     "units": 33,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "1c10abc3fa00f6620e52c5fedd578913ecb619dcbc15932aa152ee305411dc7b"
+    },
+    {
+     "from": "2017-07-03",
+     "units": 35,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "a021f1cd704ce4a96612d47108c83a0cd7280c0e968cf54a9b2c22c014455c91"
+    },
+    {
+     "from": "2017-10-02",
+     "units": 39,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "46d67b5c7127f1468f3f6e819480dfc42449f911db2b2f3d1f959b9b58105ceb"
+    },
+    {
+     "from": "2017-10-09",
+     "units": 40,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "42c886f92cc4d5f51a3b20af9f1a679ec1bf156f34a9c92d98db00a3caf842d3"
+    },
+    {
+     "from": "2017-10-25",
+     "units": 41,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "cbd1723d85e3286911fbc73c205f399362b162cb7cec2fa53107a4e1d6f845c8"
+    },
+    {
+     "from": "2017-10-31",
+     "units": 49,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "d8ebed5bf25a7039e0d66869612c8f66fab139bc82a3717b1e7097b27c6bb1ec"
+    },
+    {
+     "from": "2017-12-07",
+     "units": 57,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "16a58bbcc93ec9567da40f12675add7fae9227fcc2d248cb5c1587355f389141"
+    },
+    {
+     "from": "2017-12-20",
+     "units": 67,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "b6548d0a34207a9f11728751716d6f52f3af4d4ffd7d0789f539654b6728a435"
+    },
+    {
+     "from": "2017-12-28",
+     "units": 68,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "7fd05bfe3c36e1036eb8c726be78c7ce1d3264c01bdeff45aeed386e765ff7af"
+    },
+    {
+     "from": "2017-12-29",
+     "units": 75,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "51339bb07185d29d72f5524b6bec6913c7aaa01da0be36527bfa75e98ad2af12"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2018",
+   "short": "Законы 2018",
+   "title": "Republic of Ingushetia: catalogue of the laws published in 2018 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region06",
+   "versions": [
+    {
+     "from": "2018-01-26",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "0e15e5268722558e2b41f4e4fa1ae5f4a2c10dae8e84e21178107ab431564941"
+    },
+    {
+     "from": "2018-02-27",
+     "units": 8,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "547f68130ff9da1b2df15a02bd94db7d007ae4c2ce5827cc767409ae10964859"
+    },
+    {
+     "from": "2018-03-26",
+     "units": 12,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "d40010b2973903c2fc1439010941a7aeb543995d6fd5d41f13b06f9776c2ab83"
+    },
+    {
+     "from": "2018-04-09",
+     "units": 15,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "a2cd931280c841f8f8d88e8dfbab7368eb9bc25c95fcd771d258ba98e721d4cc"
+    },
+    {
+     "from": "2018-04-11",
+     "units": 16,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "88e55723938da06bd2ae649b7dd23d6b8c2e6e675a0f0ab870bf56dbd97a5659"
+    },
+    {
+     "from": "2018-06-05",
+     "units": 20,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "f2881f4bf9abcc91e4a49d0e7671980e1ccf1127f6829e4d42e30a7ee75b57d4"
+    },
+    {
+     "from": "2018-06-14",
+     "units": 27,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "f988945ed7a990c32f33a7202e4a1735d59e5e4f1cf6003144c56c86afc50737"
+    },
+    {
+     "from": "2018-07-03",
+     "units": 29,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "1b5cc9d4c9e916a8a2c912dd094ceeb02e93b2f01f944f77d867a290f0e386b7"
+    },
+    {
+     "from": "2018-09-04",
+     "units": 39,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "b91902aca1d683c211147019897b75804d9edddb5355ee086efceae438c7dd9e"
+    },
+    {
+     "from": "2018-10-02",
+     "units": 43,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "f876cc3e5f0b59f936b7e7a1dc86b26a2330586cf164539d2f096860f70c3cb6"
+    },
+    {
+     "from": "2018-10-05",
+     "units": 44,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "08af4a806da3179361a51b004e5393f2965e102ad31ae6d896e646fbeec3894f"
+    },
+    {
+     "from": "2018-10-30",
+     "units": 45,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "4322a4353dabf683f2abbc1ef24c42a8a9827cf3e5c36b3a941fe1e60b932515"
+    },
+    {
+     "from": "2018-12-04",
+     "units": 48,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "fd36eb5afeb4f2df61ade4d0e354e0dcaf38a553fb36dd3905e26d075ba9ef4e"
+    },
+    {
+     "from": "2018-12-25",
+     "units": 49,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "df2477c805fe1f16bd0180d8ca9818a22cd5a2d7c78a47e0f4f8b984207b289b"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2019",
+   "short": "Законы 2019",
+   "title": "Republic of Ingushetia: catalogue of the laws published in 2019 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region06",
+   "versions": [
+    {
+     "from": "2019-01-04",
+     "units": 11,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "20e2bc445aa1b3aeab6e1d3b1e43acf113eb664f111e2cf1092cf72419cb8134"
+    },
+    {
+     "from": "2019-03-06",
+     "units": 17,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "c76e5e5eb042d8a418b07754c2b46764efed912128b7a7411fa799c4f812886c"
+    },
+    {
+     "from": "2019-03-13",
+     "units": 19,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "6332d4cb5e7ae6e6deb6c24f499f02e6ba2750e7a1509fdec18243528cf8e3b7"
+    },
+    {
+     "from": "2019-04-29",
+     "units": 22,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "f59d94f027d484713cf4de698f94366482d09294bb89eafb08c05a12592f00ce"
+    },
+    {
+     "from": "2019-05-14",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "b195efc30bc8efb1293d0afcabbd474bdb585f5cfb26eb2ffcb45370184db763"
+    },
+    {
+     "from": "2019-06-07",
+     "units": 30,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "837c23c2fec9acae9bcf0d2c56e0e421fe36e2745a4b5bf2ff1ca1eb52b63ae4"
+    },
+    {
+     "from": "2019-07-02",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "f0d0b0293f71a96ee2f33b8818733966b3c11d637dcf7d75f38a70464b001a65"
+    },
+    {
+     "from": "2019-07-04",
+     "units": 38,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "59276b9feb7f5472228226f93a8cce98b8a0b6e82e050049473f54f605d8eb1c"
+    },
+    {
+     "from": "2019-09-10",
+     "units": 41,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "074ce029507aea8dcab4d54d4af053cf889c6f2bde209496fd41a954bd419b2b"
+    },
+    {
+     "from": "2019-10-03",
+     "units": 43,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "62cd7032e199f1b1f894d468da4d9dcf5f3648fb73682865182fcd3e4c99d23a"
+    },
+    {
+     "from": "2019-10-08",
+     "units": 44,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "1246835f66aa0843c04d2787acd9b301118ab6988b5bebea5eefd4d195e8596d"
+    },
+    {
+     "from": "2019-10-22",
+     "units": 46,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "51b99aa132c0f6d816a9d1de5cb04d9887de546095c991dd72359425be23f3e7"
+    },
+    {
+     "from": "2019-11-06",
+     "units": 51,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "19c8550f41c4da833d51abbbb3475723009c77488b1d7fabba165ea60031cd69"
+    },
+    {
+     "from": "2019-11-19",
+     "units": 52,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "7884ba988821ca0e53ad2d7c8d655a70b58803405e95871682e8af430743faa8"
+    },
+    {
+     "from": "2019-12-04",
+     "units": 60,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "5671919528907abfefc3d38050668a8a54fa100f4f0cfbcb2a36a83acaaa9385"
+    },
+    {
+     "from": "2019-12-16",
+     "units": 62,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "97277c73113016a52a8fbae42f554eb0db4c2d7e7df2b23e718f03f22c328779"
+    },
+    {
+     "from": "2019-12-20",
+     "units": 63,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "3c301dc2322cef8014659daf17fb0a2228e528b84d5432f29386a667f54f406a"
+    },
+    {
+     "from": "2019-12-31",
+     "units": 69,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "4bbbe43c430caf0208c917310ce7d3d2b49c6f3652c929e09e9da0bfa9427e6c"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2020",
+   "short": "Законы 2020",
+   "title": "Republic of Ingushetia: catalogue of the laws published in 2020 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region06",
+   "versions": [
+    {
+     "from": "2020-02-03",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "e27d9ceb33e063e2d5e9cb5dac93a8a0512692b2b93f36bcaeec685f28e9a15e"
+    },
+    {
+     "from": "2020-02-06",
+     "units": 2,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "f8aeda521389a3c2fc87241c87a53febf66d8df5b6ac3580935cddb982b8ae4d"
+    },
+    {
+     "from": "2020-03-02",
+     "units": 3,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "ac30fde76ff646e44df8de788c4d6fc557501bca00e4ab81b712e6e787d66580"
+    },
+    {
+     "from": "2020-03-03",
+     "units": 6,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "05e8a92e20adcbf48d0c89618cef1f60f69fef18604737d134c8e8b17afc1390"
+    },
+    {
+     "from": "2020-04-03",
+     "units": 10,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "3520367185a09232a6e31f33b5907afefd64489ffa5aa7faf16a4e12386af344"
+    },
+    {
+     "from": "2020-04-09",
+     "units": 12,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "8a7edfda3c72736ccca9badf51ec404867cd4c5230754d8966367a4726781ae1"
+    },
+    {
+     "from": "2020-06-25",
+     "units": 17,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "62c216c7f342ee8f9ad72d35906b67b797945fce1a437a6f8095a66b5a8751a7"
+    },
+    {
+     "from": "2020-06-26",
+     "units": 18,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "63560f93d435a288496a3f3e65b4ea749841703cc3e9d2b8ae06662c22ee106d"
+    },
+    {
+     "from": "2020-07-02",
+     "units": 30,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "ef1f1d0bce0595eb9f13c1990017555dd13850babf661a73decacf4820c0fcd4"
+    },
+    {
+     "from": "2020-09-02",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "dc3ea650d07cdbee57515b99587a4a8030f7a2428f181621466ed216d1615379"
+    },
+    {
+     "from": "2020-09-15",
+     "units": 32,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "c594f4b3f0cdac0b6e9a9bf495895681e536d8167f278358af0ac3d5c43690ea"
+    },
+    {
+     "from": "2020-09-21",
+     "units": 39,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "bdb4c6ee9758ad754d93e10c79fd1e50dcaee52155b1cf9fcb87db7713563e09"
+    },
+    {
+     "from": "2020-10-05",
+     "units": 40,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "39080f72ce021ecc8758e84122b61b39646120a3b4c3d49f6ab9abf05a281950"
+    },
+    {
+     "from": "2020-10-22",
+     "units": 41,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "a153555e5cb2d8afcc38786b02d5ff5692f536825039150fa0db227bc2d133a4"
+    },
+    {
+     "from": "2020-12-01",
+     "units": 42,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "af023d6e5db3e81682264e88548c30c23ff2132c1264690e04f468727deea198"
+    },
+    {
+     "from": "2020-12-07",
+     "units": 48,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "70adae19b6570268ae01f35b2ddcba6f5eeca84a20efd0f15e5b3ecc023f7395"
+    },
+    {
+     "from": "2020-12-09",
+     "units": 49,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "9e9f16b7aafd60aaae9971b92f58cc2bbfeb649734c7329444dbc012aaa80dea"
+    },
+    {
+     "from": "2020-12-21",
+     "units": 54,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "02feed32b295403b24b1f580cb9c29c2f5a90e5847f1647d94b88e72ec3c5f42"
+    },
+    {
+     "from": "2020-12-30",
+     "units": 66,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "3c95f2157549bc51660ebc3998b52ccc44a79262b95f263332b0101e1d08137c"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2021",
+   "short": "Законы 2021",
+   "title": "Republic of Ingushetia: catalogue of the laws published in 2021 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region06",
+   "versions": [
+    {
+     "from": "2021-02-10",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "e8cfcf40b8ec796ef4846467506dad155797c7c52a06354753573e52393c7d08"
+    },
+    {
+     "from": "2021-03-10",
+     "units": 7,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "4b3d326ad5dd66ea6c731f55d8b09848a208dced4a81cf0f7524a672d5155dfb"
+    },
+    {
+     "from": "2021-03-29",
+     "units": 8,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "4ed968cafe808c1173d44b758f4f47612c18f1bfc6ca66b69f1aaac2a4e9fdb5"
+    },
+    {
+     "from": "2021-04-01",
+     "units": 11,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "1590e389c7f1c7f4cd576b53b795e416d29ce5145fd9505d808bc7392305f98c"
+    },
+    {
+     "from": "2021-04-05",
+     "units": 14,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "07ec76d34c26dae6fa3902b509e1764cc323fe6db14ef70b38d6f7ab8b7d1ec7"
+    },
+    {
+     "from": "2021-04-19",
+     "units": 16,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "dcb3065e89bf136b16cf1c4cb29e54f5ea22f730e5e3826ce696932d5db18c49"
+    },
+    {
+     "from": "2021-05-11",
+     "units": 20,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "04d146bb1ac321c66abb78bad38caf13361de24591d198a6996b238e3eec0ef7"
+    },
+    {
+     "from": "2021-06-03",
+     "units": 26,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "dc22bf911e360f0f73a517dfc0cf6d0f209f7fe6ec5e3c50f9b87a97b6a5b36b"
+    },
+    {
+     "from": "2021-06-28",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "afc1322a63f839a9bb392be7f93a276f4170b18ffd8a0680aa85d10917f459d3"
+    },
+    {
+     "from": "2021-07-09",
+     "units": 40,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "56e9a5d3d836718cb0b96297e7c54a6fd0f11d80633a3e2107746bba4bc59130"
+    },
+    {
+     "from": "2021-09-09",
+     "units": 41,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "70f1ba279487216474241644a2dbed697437e5d0da5881302e4f13d344052b44"
+    },
+    {
+     "from": "2021-09-29",
+     "units": 42,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "057ec13293166c809492e776ab6f52835bf0419d455951e516e160e799143810"
+    },
+    {
+     "from": "2021-09-30",
+     "units": 45,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "402ce9a5d3d08945e7aa182fcb564348781cb2b38b2c12caf1de2e1bf3594a7c"
+    },
+    {
+     "from": "2021-10-05",
+     "units": 46,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "b83c2a1cda47f43b9a5b2c8558591081fa9659e93353322a9b477c020545552c"
+    },
+    {
+     "from": "2021-11-29",
+     "units": 49,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "ee73099078d4c8f16d8b2f6a92de0772f6d6a94d4b31baa62f334ad6e91d61f2"
+    },
+    {
+     "from": "2021-12-07",
+     "units": 52,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "088a5d616331de976cc7474ce364d0961fa32ddf032c49e09922e6e4ce0f4155"
+    },
+    {
+     "from": "2021-12-23",
+     "units": 53,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "349e64cb959fd43c2d8641fc0bef5cd621c00444133e979837865511bb550b81"
+    },
+    {
+     "from": "2021-12-27",
+     "units": 54,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "769fffccbaddc1287187d3f5d02a6cbbd76deaa4c84e5a3aa207dfe92465ebcb"
+    },
+    {
+     "from": "2021-12-29",
+     "units": 55,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "3a05d86e100a678ff0f89e7b6ce29ba64779e89aed7943e4366e297bea9785ae"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2022",
+   "short": "Законы 2022",
+   "title": "Republic of Ingushetia: catalogue of the laws published in 2022 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region06",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "bd58973e064f5dd165d368b5f9a4ae02d90ae698b3de74d5a9c83e5cc491f896"
+    },
+    {
+     "from": "2022-03-04",
+     "units": 3,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "732151e3106b5ccba98678ffda4b335ac6f7a36a8a8904a539275d4e146bed10"
+    },
+    {
+     "from": "2022-04-04",
+     "units": 5,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "59f76944fb9a700703b80a6f756190b2e7f2f049ccfd5880d147e7b27ee0c9fd"
+    },
+    {
+     "from": "2022-04-26",
+     "units": 8,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "12a6c8ec6ebd360e196463b61f69b4f955d5f7d86f1197beb0bc08fa54014762"
+    },
+    {
+     "from": "2022-04-29",
+     "units": 17,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "c5bd14d604e13779240eeb973281588f4242c735e9ba01841ad869fa411df16e"
+    },
+    {
+     "from": "2022-06-06",
+     "units": 22,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "0c05c016605d4917690006e2a1115daf3971ec85c300885b6f8f9ed76eca0e4a"
+    },
+    {
+     "from": "2022-06-28",
+     "units": 27,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "dd4a1fcf06f4fae30c303a0833235828935ed0f20812c9adb35c6264151565d8"
+    },
+    {
+     "from": "2022-07-04",
+     "units": 28,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "7cd585815931ec7c8c4f76f4a2888abb0599d8ad3aa4154466bb105df7b61036"
+    },
+    {
+     "from": "2022-07-15",
+     "units": 39,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "84ad890439b68825f7bac35361fa9ecc002a22da15f1730d4caf5de7eb7d4871"
+    },
+    {
+     "from": "2022-09-07",
+     "units": 42,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "004bbf9e188bd1ffdeb5dd28852608024e562517b096d758d279a8f428027eae"
+    },
+    {
+     "from": "2022-10-12",
+     "units": 46,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "33f7da26132b06ba14bf7804627035dc2947436cc4cf9bd958391dc65168c8a4"
+    },
+    {
+     "from": "2022-12-01",
+     "units": 54,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "221fce2b0688f8918cb7ebe3c22e4396616acfa8c6c9b3ddae93cffe548d1df1"
+    },
+    {
+     "from": "2022-12-07",
+     "units": 62,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "c31945eb995aea6ecea8f55299243746d33d1be5396441d3fdad0c29546c8b8a"
+    },
+    {
+     "from": "2022-12-28",
+     "units": 64,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "054f9ec64c79e1f53ec50a50fd2219334562eee6dcb7df9d62bd4eb2d658ec6d"
+    },
+    {
+     "from": "2022-12-29",
+     "units": 67,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "c1f84cce4f789bafefa287d2778a412110be3386e2535eda99cc8ba86ee5a8c9"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2023",
+   "short": "Законы 2023",
+   "title": "Republic of Ingushetia: catalogue of the laws published in 2023 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region06",
+   "versions": [
+    {
+     "from": "2023-01-03",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "cd5421cfeba5402130504308883b93847bf86552579b23259ac9cfc153e91f8a"
+    },
+    {
+     "from": "2023-01-12",
+     "units": 13,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "62f4f4d79ef80acdd833ca416597b938e438eddb4fef753932181fbd59245d1e"
+    },
+    {
+     "from": "2023-01-13",
+     "units": 15,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "6b6f3b87e1ca142a9b34afcf1531e2d219c6dcf78f99415b1a026b791ac47478"
+    },
+    {
+     "from": "2023-02-02",
+     "units": 18,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "18791b24cd0641e81e1ae47703522734d2d06ea94d70a3bb55e4d0f87bca5fe7"
+    },
+    {
+     "from": "2023-02-27",
+     "units": 19,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "59013221263a0ad8120aebb34c06d0327f19cd766400066b4efef1dc12941288"
+    },
+    {
+     "from": "2023-03-02",
+     "units": 21,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "16545656f8d608b74738b59a6be1374154f1949bf15db465d2bd12e4e2076c35"
+    },
+    {
+     "from": "2023-03-06",
+     "units": 26,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "fdd9413ccc2d8737ef7302b299af3f52973697c2fc072d0482996454586ded07"
+    },
+    {
+     "from": "2023-03-28",
+     "units": 27,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "315f9e25f417afb1091cd2536b1b033a0f63c888ee0b90d3d9d951d80f6e79bc"
+    },
+    {
+     "from": "2023-05-02",
+     "units": 35,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "3932644686be52cdc3425b3b65de620e5180bf9032f792235968f5aebaa3bfb9"
+    },
+    {
+     "from": "2023-06-09",
+     "units": 38,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "969852bb76438486cd975af2240dbe4b3f4636480d635139a922910ebdc03a51"
+    },
+    {
+     "from": "2023-06-14",
+     "units": 39,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "d64bb462470fe75eb4ddc328e89d6982718b92ecfadd59eac7637e9fd0546c81"
+    },
+    {
+     "from": "2023-06-29",
+     "units": 47,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "dbdcba586760a9427b72b001f05f6227bae3b46631e7a22a910f7e65f1ad195d"
+    },
+    {
+     "from": "2023-07-10",
+     "units": 51,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "0327a91bc2457305516629c0528ee320e325dbd4f87ac8a0aae0d2b8e5876a8c"
+    },
+    {
+     "from": "2023-09-26",
+     "units": 52,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "096ac964f40c8caefcc1db3b13051b25707da39b2b7dce05744929d334fe2ce4"
+    },
+    {
+     "from": "2023-10-12",
+     "units": 54,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "4ebb376e3ba749a69401828b8e33a6d85f0289ec00ffc2f6761172540295314a"
+    },
+    {
+     "from": "2023-11-10",
+     "units": 66,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "db5e29d0295e65f774c16cef57e42aeaf23c0a8e475f90c71e04654042961892"
+    },
+    {
+     "from": "2023-11-30",
+     "units": 67,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "de77d89496466ee4de3611c2950b33cd80f3abde0e8456c7f543bda23bdf2906"
+    },
+    {
+     "from": "2023-12-08",
+     "units": 68,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "36affee8b2557e89b4053d08c8fd4e7c94cec9374f294a1d29671cd6cb0c4725"
+    },
+    {
+     "from": "2023-12-31",
+     "units": 84,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "2f901f7021e9374a07d54a38c3dcb3121841749713f1813fc5c2266529a1a5f2"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2024",
+   "short": "Законы 2024",
+   "title": "Republic of Ingushetia: catalogue of the laws published in 2024 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region06",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 2,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "8c0518b63a1a2b7e0c410d4fe0939a15a588de0645c5fdcb1af12efbabf4f822"
+    },
+    {
+     "from": "2024-02-08",
+     "units": 3,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "4755d7855706d2b6e773be3d1dddcc9e3bd6a4b8d09a18c0e76a5e3239c9f74a"
+    },
+    {
+     "from": "2024-02-09",
+     "units": 4,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "ae59b4e86516261ec6909e2e6ace212d6e5002fec20bb0efff15a02d70ea332e"
+    },
+    {
+     "from": "2024-03-21",
+     "units": 14,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "c93683a4579b679f2f8c2e7e4fff145263fbee2943d5274b387085cf8869ce32"
+    },
+    {
+     "from": "2024-05-24",
+     "units": 15,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "1843d5efc672903da4854aaa1b13bb1b314a62a1450a3b2a1f0b6bfa0f8652ed"
+    },
+    {
+     "from": "2024-06-19",
+     "units": 20,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "7c5be9d83155003ba00ae17ac8a9df282d319b5f5be0015d0c49d49974febd7b"
+    },
+    {
+     "from": "2024-07-09",
+     "units": 25,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "570fa8439a8b020fb052df06f9ff546aa334c68b0e7119643d30dd8ddb70d727"
+    },
+    {
+     "from": "2024-07-17",
+     "units": 28,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "97dc7ba191540121e33c870e36586ae4947fc9769210f1786173d3f4ce64f9ae"
+    },
+    {
+     "from": "2024-07-23",
+     "units": 29,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "d04b467b05efbd0aec5aacff821c598f21bde9b3bddad60c1cf1776febb5f142"
+    },
+    {
+     "from": "2024-12-27",
+     "units": 33,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "d8921000a236c6dbc7fdfff92beda6493c6d2742485297e87d00daf9130c5be2"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2025",
+   "short": "Законы 2025",
+   "title": "Republic of Ingushetia: catalogue of the laws published in 2025 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region06",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 5,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "90b3a5f238b6ab7347280b02d6ee1b714c0885b7cebb5959eca3dde72770edc9"
+    },
+    {
+     "from": "2025-03-19",
+     "units": 6,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "c3ef50bd98e57397a5785365cc28c70393c2290c38523d312139d75fbc594a12"
+    },
+    {
+     "from": "2025-04-15",
+     "units": 12,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "b01799d552d5003f519596a860da2b10c14eb90433bfea731d4bad66f4665670"
+    },
+    {
+     "from": "2025-07-14",
+     "units": 20,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "d6a130eb2b8b75f6b61ed56108ac9e8ede680a479ccd68f0b94e2d3a6f15d9be"
+    },
+    {
+     "from": "2025-10-16",
+     "units": 24,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "c90f183ff4b76f80b2e6786f31afa34788169682303d55f911ad49cb1ca7f240"
+    },
+    {
+     "from": "2025-11-01",
+     "units": 25,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "1ccf12ff9a25ce99589f3689af7149123535bfa6a29c798f5ea1f8ab9e30750b"
+    },
+    {
+     "from": "2025-11-14",
+     "units": 29,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "e39fb9bde462b874eb492712cd11cde217fd8bae766b978d38a5d4f2a1104fb9"
+    },
+    {
+     "from": "2025-11-28",
+     "units": 30,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "46b9faf3ec3ec98576a8bf6b4972fd420d259e8a08d7062769796cf17719d0ca"
+    },
+    {
+     "from": "2025-12-12",
+     "units": 38,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "8c3db38962b92fdac560cebb5b1bab49531061f1b53b2d9df1dd3e2a123c01a2"
+    },
+    {
+     "from": "2025-12-29",
+     "units": 39,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "a7051625c0af1b288757a7a6229bebc1ddb39118a2e87f0992a855a55b26738d"
+    },
+    {
+     "from": "2025-12-30",
+     "units": 55,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "b0b382b7736489f0ccb1abf2e268e6d559ddc4e3f48604e1ca303fd6e30d8acb"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2026",
+   "short": "Законы 2026",
+   "title": "Republic of Ingushetia: catalogue of the laws published in 2026 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region06",
+   "versions": [
+    {
+     "from": "2026-02-20",
+     "units": 9,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "30288e8676ff22da2d51ba95ce72870740ff766c6e09c09cca94fa1117fbacbd"
+    },
+    {
+     "from": "2026-03-18",
+     "units": 12,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "661b9ef27cef5ab69bccff403b8f7016e5be88844afe0c9ebdd604719e0110a1"
+    },
+    {
+     "from": "2026-04-10",
+     "units": 15,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "576c69ef46edcca9424dfd6cdf8d51e857c9773d956a45fac43532b30575c321"
+    },
+    {
+     "from": "2026-04-16",
+     "units": 18,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "ef6873cf28615bf8d2d8a0664dd49802c04b9ea5721913195c358feced982b5e"
+    },
+    {
+     "from": "2026-05-16",
+     "units": 25,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "66f115c8ba93d6060840afde5c9385abbfc6d89cfe0300454184f54c742426a4"
+    },
+    {
+     "from": "2026-05-26",
+     "units": 30,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "d42b467806da3910dd909e3951ce1daeb1c09fa10061ce206500001ded29d3d6"
+    },
+    {
+     "from": "2026-06-03",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "5b4509fe247fd27ec3e857be72fc9ed25e9a2ff63d33f4578ff2352b25eafafc"
+    },
+    {
+     "from": "2026-06-08",
+     "units": 32,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "f68f4947f5ead179bf4471e13076a5ff303c92f5b3b8c1e630fb669894fbac1c"
+    },
+    {
+     "from": "2026-06-29",
+     "units": 35,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "fc15b119bc28bdadb864dbdba67e7593def155a8868b6832f9e0ae6f548f05d9"
+    },
+    {
+     "from": "2026-07-02",
+     "units": 37,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "44116cc02a0bcd44690955f20147afb7bd652a80a8a19d61c3a593f68c58ba59"
+    },
+    {
+     "from": "2026-07-04",
+     "units": 41,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "b96ec1827c15429a6ac9142c94f8454f1f57c878ec03ee90f61e6d85bd907c17"
+    },
+    {
+     "from": "2026-07-11",
+     "units": 42,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "f702f4a2885b5fc55986f6187a2be7a3e8c23decb28f65b5d816d85f87ef4db8"
+    },
+    {
+     "from": "2026-09-09",
+     "units": 43,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "ff23409ec118d68823d6a0e06d6f3aa5b7952c604c24d6ecd2795b61d16135cd"
+    },
+    {
+     "from": "2026-10-05",
+     "units": 47,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region06",
+     "sha256": "1dcf530d521175817887e8a6eeb3b648043934b44795abf2ad74d59b90eb2a88"
+    }
+   ]
+  }
+ ]
+}

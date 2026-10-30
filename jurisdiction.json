@@ -1,0 +1,11 @@
+{
+  "path": "ru-in",
+  "code": "RU-IN",
+  "name": "Republic of Ingushetia",
+  "level": "region",
+  "parent": "ru",
+  "repo": "https://github.com/lexifina/russia-ingushetia-law",
+  "build": "catalogue: facts only, no law text (Official Internet Portal of Legal Information metadata)",
+  "language": "ru",
+  "sources": 1
+}
