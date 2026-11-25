@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T13:35:46Z",
+ "generated": "2026-11-25T06:58:50Z",
  "latest": {
   "pravo-ingushetia|russia/ingushetia/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 716,
     "source_in_scope": 716
    },
-   "check_id": "ru-pravo-ingushetia-20261124T133402Z",
+   "check_id": "ru-pravo-ingushetia-20261125T052336Z",
    "commits": null,
    "corpus": "russia/ingushetia/acts",
    "error": null,
-   "finished": "2026-11-24T13:35:45Z",
+   "finished": "2026-11-25T05:24:01Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region06: 716 law-type documents listed (every page read); 716 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "716 law-type documents in block region06; newest published 2026-10-05",
    "source": "pravo-ingushetia",
-   "started": "2026-11-24T13:34:02Z",
+   "started": "2026-11-25T05:23:36Z",
    "unexplained": 0,
    "update": {
     "parts": []
