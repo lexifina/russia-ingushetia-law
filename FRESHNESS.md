@@ -6,7 +6,7 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Republic of Ingushetia: Official Internet Portal of Legal Information (region06) · `russia/ingushetia/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-25 05:24 UTC**.
+- The official source last read and every act held here checked against it: **2026-11-26 05:24 UTC**.
 - Acts held here: 716; current at the source: 716; changed at the source since the version held here: 0; no longer at the source: 0.
 - Not published: 0 (—); with no reason: 0.
 
